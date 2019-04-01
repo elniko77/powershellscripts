@@ -5,8 +5,7 @@ Misc Powershell scritps, ad admin, etc
 
 | Function | Description |
 | :--- | :--- | 
-| adadmin/Get-UsersLastLogon.ps1| List domain users last logon date. |
-
+| [Get-UsersLastLogon](adadmin/Get-UsersLastLogon.ps1)| List domain users last logon date. |
 
 
 #### Security
